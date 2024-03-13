@@ -1,5 +1,5 @@
-import "@/styles/globals.css";
-
+// import "@/styles/globals.css";
+import '/home/iago/adapti/treinoNext/portas/styles/globals.css'
 export default function App({ Component, pageProps }) {
   return <Component {...pageProps} />;
 }
